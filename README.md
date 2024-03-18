@@ -2,5 +2,5 @@
 
 ## Environment
 
-- **Visual Studio Version:** [17.1.2]
+- **Visual Studio Version:** [17.7.4]
 - **Operating System:** [Windows 11 Home Chinese Version]
